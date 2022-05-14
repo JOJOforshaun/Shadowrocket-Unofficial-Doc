@@ -52,4 +52,4 @@
 
 ## 在使用苹果芯片的macOS上安装
 
-如果你的
+如果你的使用的是搭载着苹果芯片（如 M1、M1 Pro、M1 Max、M1 Ultra等）的Mac上运行的macOS，你可以在非国区 App Store 里搜索 Shadowrocket，点击结果下方的“iPhone/iPad”，以切换到 iOS APP结果页面。
