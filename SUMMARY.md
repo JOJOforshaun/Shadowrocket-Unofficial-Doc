@@ -6,7 +6,6 @@
 
 * [获取 Shadowrocket](ru-men-zhi-nan/huo-qu-shadowrocket.md)
 * [快速上手](ru-men-zhi-nan/kuai-su-shang-shou.md)
-* [Advanced permissions](ru-men-zhi-nan/advanced-permissions.md)
 
 ## Fundamentals
 

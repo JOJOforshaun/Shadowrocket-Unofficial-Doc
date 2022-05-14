@@ -28,8 +28,8 @@ Shadowrocket 是 iOS/iPadOS 平台上较早出现的支持多种代理协议的�
 [kuai-su-shang-shou.md](ru-men-zhi-nan/kuai-su-shang-shou.md)
 {% endcontent-ref %}
 
-{% content-ref url="ru-men-zhi-nan/advanced-permissions.md" %}
-[advanced-permissions.md](ru-men-zhi-nan/advanced-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}
