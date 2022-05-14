@@ -28,17 +28,9 @@ Shadowrocket 是 iOS/iPadOS 平台上较早出现的支持多种代理协议的�
 [kuai-su-shang-shou.md](ru-men-zhi-nan/kuai-su-shang-shou.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+### 深入理解
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
+让我们继续让我让我们继续
 
 {% content-ref url="shen-ru-li-jie/projects.md" %}
 [projects.md](shen-ru-li-jie/projects.md)
