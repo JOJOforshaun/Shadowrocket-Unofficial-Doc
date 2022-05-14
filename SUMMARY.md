@@ -7,12 +7,12 @@
 * [获取 Shadowrocket](ru-men-zhi-nan/huo-qu-shadowrocket.md)
 * [快速上手](ru-men-zhi-nan/kuai-su-shang-shou.md)
 
-## Fundamentals
+## 深入理解
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Projects](shen-ru-li-jie/projects.md)
+* [Members](shen-ru-li-jie/members.md)
+* [Task Lists](shen-ru-li-jie/task-lists.md)
+* [Tasks](shen-ru-li-jie/tasks.md)
 
 ## Use Cases
 

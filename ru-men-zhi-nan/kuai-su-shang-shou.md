@@ -83,3 +83,27 @@ Shadowrocket 扫描二维码有两个入口：
 ![](../.gitbook/assets/IMG\_1497.PNG)
 
 最后，在返回“首页”，点击顶部节点右侧的开关，开启代理，如果是首次使用或者重置过 Tunnel，则会提示需要添加 VPN 连接。 点击“允许”后按系统提示操作，验证密码 / Touch ID / Face ID，之后会自动返回到 Shadowrocket 界面并启用代理。
+
+### 使用其他配置
+
+刚才，你已经在使用默认的配置文件开启代理。在大多数情况下，默认的配置文件的确可以胜任大部分用户的国内外分流的需求。但你可能仍然想要使用其他配置，或是他人编写好的配置，又或是自己编写的配置，以满足自己的需求。此处只介绍如何添加第三方的配置，自己编写、修改配置其请查看后续文档。这并不难，我们看看如何实现它。
+
+打开 Shadowrocket，点击底栏的“配置” - 右上角的加号➕，在弹出的输入框内粘贴你将要添加的配置文件的链接，再点击“下载”。
+
+然后，“远程文件”下就会出现你刚才添加的配置文件链接，点击它，再点击“使用配置”，就会开始下载该配置文件并切换使用它。
+
+![](../.gitbook/assets/IMG\_1503.JPG)![](../.gitbook/assets/IMG\_1502.PNG)![](../.gitbook/assets/IMG\_1505.JPG)
+
+#### 第三方配置推荐
+
+Tartarus2014 规则(包含RULE-SET):
+
+```
+https://github.com/Tartarus2014/Shadowrocket-Script/raw/main/Shadowrocket.conf
+```
+
+eHpo1 规则:
+
+```
+https://raw.githubusercontent.com/787a68/Rules/master/Shadowrocket/Main.conf
+```
