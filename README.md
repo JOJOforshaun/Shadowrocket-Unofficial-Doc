@@ -4,7 +4,7 @@ description: 基于规则的 iPhone /iPad 代理实用程序客户蟠。
 
 # 什么是 Shadowrocket？
 
-[一键添加](shadowrocket://install/module?=https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKok-JP.sgmodule)
+<shadowrocket://install/module?=https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKok-JP.sgmodule>
 
 {% hint style="info" %}
 **声明：**这并不是官方文档，此文档由 Shadowrocket 用户维护。此文档基于 Shadowrocket 2.2.8 版本编写。由于无法及时维护文档，部分内容可能随 APP 版本迭代失效。
